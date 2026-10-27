@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">RoboCopy Studio</title>
+<desc id="desc">Two overlapping file panels and a forward transfer arrow, cyan and teal on a rounded midnight-blue tile.</desc>
+<defs><linearGradient id="tile" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1c3044"/><stop offset="1" stop-color="#0e1521"/></linearGradient></defs>
+<rect x="12" y="12" width="232" height="232" rx="54" fill="url(#tile)" stroke="#30485e" stroke-width="2"/>
+<rect x="57" y="55" width="94" height="122" rx="14" fill="#122337" stroke="#41647e" stroke-width="5"/>
+<rect x="83" y="79" width="94" height="122" rx="14" fill="#112d3c" stroke="#75ddea" stroke-width="6"/>
+<path d="M105 105H151M105 124H134" fill="none" stroke="#799dad" stroke-width="6" stroke-linecap="round"/>
+<path d="M105 157H201M180 136L201 157L180 178" fill="none" stroke="#48d7b7" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

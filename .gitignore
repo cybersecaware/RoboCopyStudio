@@ -1,0 +1,24 @@
+# Build products and local evidence
+/bin/
+/dist/
+*.exe
+*.zip
+*.syso
+*.test
+coverage.out
+coverage.html
+# Development caches / credentials
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
